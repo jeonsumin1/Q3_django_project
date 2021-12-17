@@ -1,0 +1,19 @@
+body{
+    background: white url("images/p.png")no-repeat;
+    background-size: 100%;
+    height: 500px;
+    border-top: 10px solid #css;
+}
+
+title{
+    color: #c80;
+    font-weight: bold;
+
+}
+h4{
+    margin: 30px 50px;
+}
+li a{
+color: green;
+
+}
